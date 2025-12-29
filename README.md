@@ -39,9 +39,6 @@ Features:
 ```
 .
 ├── README.md                    # This file
-├── LICENSE                      # MIT License
-├── .gitignore                  # Git ignore rules
-│
 ├── data/                        # Data files
 │   ├── NYPD_cleaned.csv        # Cleaned shooting incident data
 │   ├── NYC_Boroughs_SocioEconomic_2006_2024.csv
@@ -57,12 +54,6 @@ Features:
 │   ├── temporal/               # Time series plots
 │   ├── spatial/                # Maps (yearly shooting & murder)
 │   └── demographic/            # Demographic analysis plots
-│
-└── paper/                       # Academic manuscript
-    ├── nypd_shooting_upgraded.tex
-    ├── references.bib
-    ├── NYPD.pdf                # Compiled paper
-    └── images/                 # Paper figures
 ```
 
 ## 📖 Data Sources
