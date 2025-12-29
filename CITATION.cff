@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ansah
+    given-names: Emmanuel
+    email: emmanuel.ansah@aims.ac.rw
+    affiliation: African Institute for Mathematical Sciences (AIMS), Rwanda
+  - family-names: Gouno
+    given-names: Edwige
+title: "Temporal Patterns and Forecasting of Firearm Violence in New York City, 2006-2024"
+version: 1.0.0
+date-released: 2024-12-29
+url: "https://github.com/emmanuelansah/nyc-shooting-analysis"
